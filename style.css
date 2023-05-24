@@ -13,3 +13,10 @@ color: var(--branco-principal);
     margin: 0;
     padding: 0;
 }
+
+.principal {
+    background-image: url("img/combo");
+}
+.container {
+    
+}
