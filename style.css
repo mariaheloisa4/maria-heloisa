@@ -84,3 +84,12 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.secundario__botão {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descrição {
+    padding: 2em;
+}
